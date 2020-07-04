@@ -1,0 +1,14 @@
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.Service.deps.json
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.Service.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.Service.pdb
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.Configuration.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.pdb
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\bin\Debug\netcoreapp3.1\UCS.VariableSet.Configuration.pdb
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.csprojAssemblyReference.cache
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.AssemblyInfoInputs.cache
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.AssemblyInfo.cs
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.csproj.CoreCompileInputs.cache
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.csproj.CopyComplete
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.Service\obj\Debug\netcoreapp3.1\UCS.VariableSet.Service.pdb

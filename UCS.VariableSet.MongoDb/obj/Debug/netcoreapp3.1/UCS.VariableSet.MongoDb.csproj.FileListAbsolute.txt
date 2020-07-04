@@ -1,0 +1,12 @@
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\bin\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.deps.json
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\bin\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.csprojAssemblyReference.cache
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.AssemblyInfoInputs.cache
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.AssemblyInfo.cs
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\bin\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.pdb
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\bin\Debug\netcoreapp3.1\UCS.VariableSet.Configuration.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\bin\Debug\netcoreapp3.1\UCS.VariableSet.Configuration.pdb
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.csproj.CoreCompileInputs.cache
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.csproj.CopyComplete
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.dll
+C:\Users\cihan\source\repos\UCS.VariableSet\UCS.VariableSet.MongoDb\obj\Debug\netcoreapp3.1\UCS.VariableSet.MongoDb.pdb
